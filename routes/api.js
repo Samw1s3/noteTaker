@@ -15,7 +15,7 @@ function saveNotesToDb(notes){
     fs.writeFileSync(dbPath, JSON.stringify(notes), 'utf8');
 }
 
-router.get('api/notes', (req,res) => {
+router.get('/api/notes', (req,res) => {
     console.log('working');
 
     res.json(getNotes())
