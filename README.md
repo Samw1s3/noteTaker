@@ -10,7 +10,8 @@ This web application allows the used to save and delete notes in an online envir
 
 - [Usage Instructions](#usage-instructions)
 - [Repository Link](#repository-link)
-- [Hosted LInk](#hosted-link) 
+- [Hosted Link](#hosted-link) 
+- [References](#references)
 
 ## Usage Insturctions
 
@@ -20,4 +21,6 @@ To begin using this application please click the get started button, on the next
 To find out more information about this repo please visit my github page https://github.com/Samw1s3/noteTaker
 
 ## Hosted Link
-
+https://note-taker-sk22.herokuapp.com/
+## References
+https://devcenter.heroku.com/articles/getting-started-with-nodejs?singlepage=true
